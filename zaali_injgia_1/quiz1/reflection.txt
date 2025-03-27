@@ -1,3 +1,2 @@
-totally, it was not hard, but out of everything most challenging was making R21, but using ai, i solved that.
-ai tool that i used was claudai, and it was very useful, and from now on, i understand java constructs that i didnt know well.
-
+Challenges: creating r21. Resolved by carefully analyzing files and using ai.
+using ai i understood some java contructs that i didnt knew well.
